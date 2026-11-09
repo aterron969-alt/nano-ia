@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /gracias.html
+Sitemap: https://aterron969-alt.github.io/nano-ia/sitemap.xml
